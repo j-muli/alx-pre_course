@@ -1,1 +1,1 @@
-mkdir up_to_date
+git pull htts://github.com/j-muli/alx-pre_course.git
